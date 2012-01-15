@@ -1,0 +1,28 @@
+# Eclipse
+.settings
+.metadata
+.cache
+.classpath
+.project
+
+# server
+ShopinionServer/war/
+ShopinionServer/target/
+#ShopinionServer/war/geatteserver/*.cache.html
+#ShopinionServer/war/geatteserver/*.gwt.rpc
+#ShopinionServer/war/WEB-INF/deploy
+#ShopinionServer/war/WEB-INF/classes/
+#ShopinionServer/war/WEB-INF/lib/
+ShopinionServer/.gwt/
+ShopinionServer/bin/
+
+# app
+Shopinion/bin/
+ShopinionTest/bin/
+target
+
+# misc
+RemoteSystemsTempFiles
+
+# ios appcode project files
+.idea

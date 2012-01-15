@@ -1,0 +1,5 @@
+www:
+  type: java
+  approot: shopinion-web
+db:
+  type: mysql
